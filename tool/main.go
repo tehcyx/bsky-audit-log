@@ -44,7 +44,6 @@ func main() {
 			panic(*v + " env var not set")
 		} else {
 			*v = vv
-			fmt.Println(vv)
 		}
 	}
 	ctx := context.Background()
