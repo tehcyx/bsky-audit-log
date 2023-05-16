@@ -1,4 +1,4 @@
-name: Collect atproto data
+name: Collect bsky data
 on:
   schedule:
     - cron: "50 21 * * *"
