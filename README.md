@@ -21,6 +21,6 @@ This repository backs up my
 
    - BSKY_INSTANCE
 
-1. See [.github/workflows/update.yml](/.github/workflows/update.yml) and modify the cron schedule (in UTC) as you see fit.
+1. See [.github/workflows/update.yaml](/.github/workflows/update.yaml) and modify the cron schedule (in UTC) as you see fit.
 
 1. Commit and push. Once the time arrives, the cron would work, and commit the lists into `.txt` files and push the changes.
