@@ -3,7 +3,7 @@ module github.com/tehcyx/atproto-audit-log
 go 1.20
 
 require (
-	github.com/bluesky-social/indigo v0.0.0-20230512185855-9660afd5a941
+	github.com/bluesky-social/indigo v0.0.0-20230516230630-e5830d92f1ff
 	github.com/golang-jwt/jwt/v5 v5.0.0
 )
 

@@ -172,7 +172,7 @@ func blocked(ctx context.Context, c *xrpc.Client, id string) ([]*bsky.ActorDefs_
 	var accounts []*bsky.ActorDefs_ProfileView
 	var cursor string
 	for {
-		fs, err := GraphGetBlocks(ctx, c, cursor, 100) // using a local function until the library is updated.
+		fs, err := bsky.GraphGetBlocks(ctx, c, cursor, 100) // using a local function until the library is updated.
 		if err != nil {
 			return nil, err
 		}
@@ -204,25 +204,4 @@ func muted(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDefs_P
 		}
 	}
 	return accounts, nil
-}
-
-// GraphGetMutes_Output is the output of a app.bsky.graph.getBlocks call.
-type GraphGetBlocks_Output struct {
-	Cursor *string                       `json:"cursor,omitempty" cborgen:"cursor,omitempty"`
-	Blocks []*bsky.ActorDefs_ProfileView `json:"mutes" cborgen:"mutes"`
-}
-
-// GraphGetBlocks calls the XRPC method "app.bsky.graph.getBlocks".
-func GraphGetBlocks(ctx context.Context, c *xrpc.Client, cursor string, limit int64) (*GraphGetBlocks_Output, error) {
-	var out GraphGetBlocks_Output
-
-	params := map[string]interface{}{
-		"cursor": cursor,
-		"limit":  limit,
-	}
-	if err := c.Do(ctx, xrpc.Query, "", "app.bsky.graph.getBlocks", params, nil, &out); err != nil {
-		return nil, err
-	}
-
-	return &out, nil
 }
