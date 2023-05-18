@@ -1,4 +1,4 @@
-did:plc:2ogrhgjynjbg6wyj235ig7tp,yos.xyz
+did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:thcgl3bxpvq6a3ojj6pjyzao,invest.bsky.social
 did:plc:zjfqitgtre43o3b4ccycfyxk,benjackson.bsky.social
 did:plc:pkuisl4mimpqfiut6icapvlb,jeremyrickard.com
