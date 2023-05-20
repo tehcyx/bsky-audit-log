@@ -1,3 +1,4 @@
+did:plc:k2weqoffrljoi7d45jjhjaqk,thedevil.bsky.social
 did:plc:7v4zh2oqny3s7zejpapnm55s,drbashir2023.bsky.social
 did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:thcgl3bxpvq6a3ojj6pjyzao,invest.bsky.social
@@ -16,7 +17,6 @@ did:plc:hf4k7eomw4kzxgaewpias2h4,nexus.bsky.social
 did:plc:35pzepfgqsqumssny4vacajq,kdspaul.bsky.social
 did:plc:qxicu6czvmshborhgqfy5ixl,jasonchan.bsky.social
 did:plc:l5xtfa5pzcuney5mfvn6g4w5,richardrabbat.bsky.social
-did:plc:jg66drxkqd7zrvluorpfie6q,timholt.bsky.social
 did:plc:7yvsfg2ppdeglnpnvxsw7vav,sho.bsky.social
 did:plc:mxdlsmrzuki6rzn4nrx6rif3,blj.bsky.social
 did:plc:atipzhxkznkvlg5clzcsil72,bs-days.com

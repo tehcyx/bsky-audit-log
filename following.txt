@@ -1,3 +1,4 @@
+did:plc:ox4dnvjhgnx3rvzshbtgmd6f,vancityreynolds.bsky.social
 did:plc:myazd4xjh2sfdaq5wttlblgp,anonopsunited.bsky.social
 did:plc:skmvc4cstxwtt3oct44fpf66,msf.bsky.social
 did:plc:liq6fguhetsghzyo4cmv5zd4,jimmyfallon.bsky.social
@@ -38,7 +39,6 @@ did:plc:35bdlgus7hihmup66o265nuy,rawkode.dev
 did:plc:3cnc23febpqll7eaz5h722mn,chmarny.com
 did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:3n5xhy6vl7smssmwxq5wgqa6,gergely.pragmaticengineer.com
-did:plc:xraomsuf6pvh7r2cqtdwhkvm,swiftonsecurity.com
 did:plc:p6qkxy42g2evxw4k73divmes,juliaferraioli.com
 did:plc:vkn2vmcnsmlffrpwalvgybw5,h.olysh.it
 did:plc:ekcyikfp2mpymgtyzz7wkfuj,auggie.dev
