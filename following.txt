@@ -20,7 +20,7 @@ did:plc:ehktuyu46b3sdkl2y3sdij3u,oxidecomputer.bsky.social
 did:plc:73dpznbu4wqwtcyurwbiulov,archive.org
 did:plc:227qvsvdwkcymmox33btem2x,leahculver.bsky.social
 did:plc:tkc3xiya4k7uyx3jsei3bp65,tailscale.com
-did:plc:wxikukvtjcapoftvbbsyhlia,theckman.bsky.social
+did:plc:wxikukvtjcapoftvbbsyhlia,t.heckman.io
 did:plc:kxqxwufoswqozilbdqu5adui,cloudnativeyoda.bsky.social
 did:plc:2mkgbhbhqvappkkorf2bzyrp,jasonschreier.bsky.social
 did:plc:umha67tlutgdjrttenhkr5nt,jonas.do
