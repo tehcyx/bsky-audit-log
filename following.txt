@@ -65,7 +65,6 @@ did:plc:jg7zvku4khzmvyjwbzv4lnly,caseynewton.bsky.social
 did:plc:ucct3fwwarzd7rety6nzq4cc,bcantrill.bsky.social
 did:plc:6n3khpmbhb42dwtnf5sjfapg,ahmet.dev
 did:plc:kfztyuziv2i44b5kpecth77y,dims.dev
-did:plc:4metn2vomrgrofpkywrv6g5g,erix.bsky.social
 did:plc:tc5vn5hm2mak4bvpbulkt3up,shenetworks.bsky.social
 did:plc:sssh66tbit7kv4ssomldnc4d,kat.lol
 did:plc:k5nskatzhyxersjilvtnz4lh,washingtonpost.com

@@ -37,7 +37,6 @@ did:plc:gavqr7yuapgfhfr4hvosjyoh,nelsonbeans.com
 did:plc:ftxfb3g7x56qiujgcu7ypahs,gpte.bsky.social
 did:plc:poqixmef4gnznajw6xj4b7dy,drstanton.bsky.social
 did:plc:c55uo4k7ijue5uhbh7i3mhob,xander.wtf
-did:plc:4metn2vomrgrofpkywrv6g5g,erix.bsky.social
 did:plc:bpauyhw2aqdubjfug4j72nci,rathbone.dev
 did:plc:u66yy4dkibtqvckpvlpvhwbk,andrewlombardi.com
 did:plc:f7du5s6xe4fza2gixnynvzxq,oof.bsky.social
