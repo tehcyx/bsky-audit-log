@@ -26,7 +26,7 @@ did:plc:kxqxwufoswqozilbdqu5adui,cloudnativeyoda.bsky.social
 did:plc:2mkgbhbhqvappkkorf2bzyrp,jasonschreier.bsky.social
 did:plc:umha67tlutgdjrttenhkr5nt,jonas.do
 did:plc:rsnrq6xmztkrv3n6a2334jiw,biz.bsky.social
-did:plc:nefisjl76yhhaqirlrp4itmu,discord.bsky.social
+did:plc:nefisjl76yhhaqirlrp4itmu,fomo.bsky.social
 did:plc:l5xtfa5pzcuney5mfvn6g4w5,richardrabbat.bsky.social
 did:plc:35pzepfgqsqumssny4vacajq,kdspaul.bsky.social
 did:plc:62jwiyf2aowrzetdbvgmhncr,chancerydaily.bsky.social
