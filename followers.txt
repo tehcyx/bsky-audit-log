@@ -1,3 +1,5 @@
+did:plc:ua6usdc4hzvzjsokoenba4zt,amir.blue
+did:plc:66exg3ue3crrvms3kltkwy4j,dcsan.xyz
 did:plc:sxhvvd27nuho3aqdfxybwt3d,thx.bsky.social
 did:plc:d3q2io3xsydlwoeriw6snpex,lesfleursdumal.bsky.social
 did:plc:xfqcsi7wuwedeqaa5m7aih44,expectus.bsky.social
