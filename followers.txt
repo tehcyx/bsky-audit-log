@@ -1,3 +1,5 @@
+did:plc:n4yy7axeagyc5su2yp65oqpg,eddiefranklin.bsky.social
+did:plc:nk2zwqotz3j7f7xhpmbulwig,loffer.bsky.social
 did:plc:ua6usdc4hzvzjsokoenba4zt,amir.blue
 did:plc:66exg3ue3crrvms3kltkwy4j,dcsan.xyz
 did:plc:sxhvvd27nuho3aqdfxybwt3d,thx.bsky.social
