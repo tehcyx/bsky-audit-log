@@ -1,3 +1,5 @@
+did:plc:oz4ck5d64mv7ghc324lruvpc,bbhart.com
+did:plc:a7fuln2dy7xlnnl74rved2i2,jandev.bsky.social
 did:plc:hdpwupq455z7amzjnflkuhly,chisato.bsky.social
 did:plc:n4yy7axeagyc5su2yp65oqpg,eddiefranklin.bsky.social
 did:plc:nk2zwqotz3j7f7xhpmbulwig,loffer.bsky.social
