@@ -1,3 +1,4 @@
+did:plc:zilrm7qqqzklu6fnivule6k3,alolita.bsky.social
 did:plc:hba2gapoq5n4i7sqm7pvomvd,garchanjo.com
 did:plc:oz4ck5d64mv7ghc324lruvpc,bbhart.com
 did:plc:a7fuln2dy7xlnnl74rved2i2,jandev.bsky.social
@@ -23,7 +24,7 @@ did:plc:slwz2spe2hzga4cj5xwaqqmk,frankschoschka.bsky.social
 did:plc:hn2ebg3nposwaqhhojn4gmd7,trippy.bsky.social
 did:plc:l5vohrotjzzycko5tw4yvukb,keithmattix.bsky.social
 did:plc:dr5hvdtpbo4l7long325nqxo,rswestmore.land
-did:plc:77udfhslr2xloupebtiifrdn,erynfaye.bsky.social
+did:plc:77udfhslr2xloupebtiifrdn,erynfaye.com
 did:plc:yxwq2vrknqhxqb2pnaxivub3,mauilion.dev
 did:plc:lya72n3sftnxascd2u3xx3eb,hyd.bsky.social
 did:plc:gdnt4vojxmkzbwbxkfnef2jr,dvf.bsky.social
