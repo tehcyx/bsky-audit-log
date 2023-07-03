@@ -1,3 +1,4 @@
+did:plc:qgefetwlz332enmd6zwwq4ic,maneetbedi.bsky.social
 did:plc:3cnc23febpqll7eaz5h722mn,chmarny.com
 did:plc:jjwb2rs3kf757lcua5jal2pf,anivar.bsky.social
 did:plc:cdffxku74gmnewk2um3kedtt,gepser.com
@@ -31,7 +32,6 @@ did:plc:77udfhslr2xloupebtiifrdn,erynfaye.com
 did:plc:yxwq2vrknqhxqb2pnaxivub3,mauilion.dev
 did:plc:lya72n3sftnxascd2u3xx3eb,inc.bsky.social
 did:plc:gdnt4vojxmkzbwbxkfnef2jr,dvf.bsky.social
-did:plc:lrilefc4dwqri6knibu2uubg,ivanbaldoino.bsky.social
 did:plc:hf4k7eomw4kzxgaewpias2h4,nexus.bsky.social
 did:plc:35pzepfgqsqumssny4vacajq,kdspaul.bsky.social
 did:plc:qxicu6czvmshborhgqfy5ixl,jasonchan.bsky.social
