@@ -1,3 +1,5 @@
+did:plc:75v5pl5ekvm2gtqguuytrfmg,writingood.bsky.social
+did:plc:x747vtub2hatvsde65h42cwj,tylerranman.bsky.social
 did:plc:otg2nwpt63fp2cscvzh54rwj,box464.com
 did:plc:qfdhyrufxivyrut5qdmm6gpm,llsethj.bsky.social
 did:plc:gr3zsqab63cfvv7nao4mrh7v,artificial.bsky.social
@@ -18,7 +20,6 @@ did:plc:d3q2io3xsydlwoeriw6snpex,lesfleursdumal.bsky.social
 did:plc:xfqcsi7wuwedeqaa5m7aih44,expectus.bsky.social
 did:plc:k2weqoffrljoi7d45jjhjaqk,thedevil.bsky.social
 did:plc:ywhc3ypin66nd7xl2seyd3ow,marshy.bsky.social
-did:plc:ejp2fwtx7qu3x5u2zaoxiyjm,qephatziel.bsky.social
 did:plc:gzo7eieauepwe6yuq7ql6vvy,wendydevolder.bsky.social
 did:plc:fezgqukekwyvhz2ljrmcnmrk,ishverduzco.bsky.social
 did:plc:7v4zh2oqny3s7zejpapnm55s,drbashir2023.bsky.social
