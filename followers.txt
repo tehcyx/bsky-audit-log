@@ -12,11 +12,10 @@ did:plc:oz4ck5d64mv7ghc324lruvpc,bbhart.com
 did:plc:a7fuln2dy7xlnnl74rved2i2,jandev.bsky.social
 did:plc:hdpwupq455z7amzjnflkuhly,chisato.bsky.social
 did:plc:n4yy7axeagyc5su2yp65oqpg,eddiefranklin.bsky.social
-did:plc:nk2zwqotz3j7f7xhpmbulwig,loffer.bsky.social
 did:plc:ua6usdc4hzvzjsokoenba4zt,amir.blue
 did:plc:66exg3ue3crrvms3kltkwy4j,dcsan.xyz
 did:plc:d3q2io3xsydlwoeriw6snpex,lesfleursdumal.bsky.social
-did:plc:xfqcsi7wuwedeqaa5m7aih44,expectus.bsky.social
+did:plc:xfqcsi7wuwedeqaa5m7aih44,expectus.fyi
 did:plc:k2weqoffrljoi7d45jjhjaqk,thedevil.bsky.social
 did:plc:ywhc3ypin66nd7xl2seyd3ow,marshy.bsky.social
 did:plc:gzo7eieauepwe6yuq7ql6vvy,wendydevolder.bsky.social
