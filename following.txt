@@ -1,3 +1,5 @@
+did:plc:l24s5jnhf5a5fznzuznuokk4,giantwaffle.tv
+did:plc:it5libnatnylf2c5jpr56vpr,micahhausler.com
 did:plc:d5wvkiybqjkauv2tp6fcomcd,redigit.bsky.social
 did:plc:75v5pl5ekvm2gtqguuytrfmg,writingood.bsky.social
 did:plc:x747vtub2hatvsde65h42cwj,tylerranman.bsky.social

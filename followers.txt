@@ -1,3 +1,4 @@
+did:plc:it5libnatnylf2c5jpr56vpr,micahhausler.com
 did:plc:zehdmdx4xrfdlprkvgd5jxh2,kilic.bsky.social
 did:plc:75v5pl5ekvm2gtqguuytrfmg,writingood.bsky.social
 did:plc:x747vtub2hatvsde65h42cwj,tylerranman.bsky.social
@@ -5,7 +6,6 @@ did:plc:otg2nwpt63fp2cscvzh54rwj,box464.com
 did:plc:qfdhyrufxivyrut5qdmm6gpm,llsethj.bsky.social
 did:plc:3cnc23febpqll7eaz5h722mn,chmarny.com
 did:plc:jjwb2rs3kf757lcua5jal2pf,anivar.bsky.social
-did:plc:cdffxku74gmnewk2um3kedtt,gepser.com
 did:plc:jabjpd6qobt52rwzcvlr34pi,k1t.fun
 did:plc:zilrm7qqqzklu6fnivule6k3,alolita.bsky.social
 did:plc:oz4ck5d64mv7ghc324lruvpc,bbhart.com
