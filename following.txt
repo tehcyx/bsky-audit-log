@@ -10,7 +10,6 @@ did:plc:jutmjylg2h4tpev7wrvy2ay3,alyankovic.bsky.social
 did:plc:oc6vwdlmk2kqyida5i74d3p5,support.bsky.team
 did:plc:ywhc3ypin66nd7xl2seyd3ow,marshy.bsky.social
 did:plc:7ieslzsosfxql4yvo7ykvvqx,mccune.org.uk
-did:plc:jn6yywuwonyuomojmarya7tq,atlastalos.bsky.social
 did:plc:ox4dnvjhgnx3rvzshbtgmd6f,vancityreynolds.bsky.social
 did:plc:myazd4xjh2sfdaq5wttlblgp,anonopsunited.bsky.social
 did:plc:skmvc4cstxwtt3oct44fpf66,msf.bsky.social
@@ -23,7 +22,6 @@ did:plc:ewvi7nxzyoun6zhxrhs64oiz,atproto.com
 did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:oky5czdrnfjpqslsw2a5iclo,jay.bsky.team
 did:plc:vpkhqolt662uhesyj6nxm7ys,why.bsky.team
-did:plc:cg4swykvgp3sgaw2l227jhyz,luca.run
 did:plc:l3efsnzegvrsoek3tr2lknal,justinschuh.com
 did:plc:ehktuyu46b3sdkl2y3sdij3u,oxidecomputer.bsky.social
 did:plc:73dpznbu4wqwtcyurwbiulov,archive.org
