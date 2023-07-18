@@ -10,7 +10,6 @@ did:plc:jabjpd6qobt52rwzcvlr34pi,k1t.fun
 did:plc:zilrm7qqqzklu6fnivule6k3,alolita.bsky.social
 did:plc:oz4ck5d64mv7ghc324lruvpc,bbhart.com
 did:plc:a7fuln2dy7xlnnl74rved2i2,jandev.bsky.social
-did:plc:hdpwupq455z7amzjnflkuhly,chisato.bsky.social
 did:plc:n4yy7axeagyc5su2yp65oqpg,eddiefranklin.bsky.social
 did:plc:ua6usdc4hzvzjsokoenba4zt,amir.blue
 did:plc:66exg3ue3crrvms3kltkwy4j,dcsan.xyz
