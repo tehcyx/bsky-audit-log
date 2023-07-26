@@ -1,3 +1,4 @@
+did:plc:tmq7aiiziiftupda2rsbwp7m,bencurran.dev
 did:plc:it5libnatnylf2c5jpr56vpr,micahhausler.com
 did:plc:zehdmdx4xrfdlprkvgd5jxh2,kilic.bsky.social
 did:plc:75v5pl5ekvm2gtqguuytrfmg,writingood.bsky.social
