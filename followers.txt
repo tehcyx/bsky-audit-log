@@ -49,7 +49,6 @@ did:plc:vm7wifn25awqm2zrury5pudg,funny.bsky.social
 did:plc:he5snxdtvvyds6rchrpkhegd,bretstarr.bsky.social
 did:plc:ylmbufmy5btcigjk27oup4zl,nature.bsky.social
 did:plc:gavqr7yuapgfhfr4hvosjyoh,nelsonbeans.com
-did:plc:ftxfb3g7x56qiujgcu7ypahs,gpte.bsky.social
 did:plc:poqixmef4gnznajw6xj4b7dy,drstanton.bsky.social
 did:plc:c55uo4k7ijue5uhbh7i3mhob,xander.wtf
 did:plc:bpauyhw2aqdubjfug4j72nci,rathbone.dev
