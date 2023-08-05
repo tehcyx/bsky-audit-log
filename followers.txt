@@ -1,3 +1,5 @@
+did:plc:kvfdo6ss7ps66zd2yfwzgfiq,simonneedham.bsky.social
+did:plc:ie7y2eedd3xtw6mepskojwgn,miltontheyounger.bsky.social
 did:plc:uajcbxbjfqlx74qabgr7olqh,madam7.bsky.social
 did:plc:chrotxqizksit6vxkdjls4xn,davidjrusek.bsky.social
 did:plc:knvszranulvcdaspt6i3x7jw,bluewake.bsky.social
@@ -47,7 +49,6 @@ did:plc:jmsnrrykqrtsnd4qh6yirxzz,discovery.bsky.social
 did:plc:n6wa7tjnh3wlcizknasz6r2f,lorenzolne.bsky.social
 did:plc:g5r4vwf3djtzwtpfxivmvlst,54m.bsky.social
 did:plc:wbuezhu46trfmg5hduqphn3r,miranda.bsky.social
-did:plc:vm7wifn25awqm2zrury5pudg,funny.bsky.social
 did:plc:he5snxdtvvyds6rchrpkhegd,bretstarr.bsky.social
 did:plc:gavqr7yuapgfhfr4hvosjyoh,nelsonbeans.com
 did:plc:poqixmef4gnznajw6xj4b7dy,drstanton.bsky.social
