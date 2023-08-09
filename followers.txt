@@ -3,7 +3,6 @@ did:plc:5krm4pb5gecb5uawvgr7uxuu,90spiictures.bsky.social
 did:plc:kvfdo6ss7ps66zd2yfwzgfiq,simonneedham.bsky.social
 did:plc:uajcbxbjfqlx74qabgr7olqh,madam7.bsky.social
 did:plc:chrotxqizksit6vxkdjls4xn,davidjrusek.bsky.social
-did:plc:knvszranulvcdaspt6i3x7jw,bluewake.bsky.social
 did:plc:czweyt74iloviohize3mazwr,promocao.bsky.social
 did:plc:tmq7aiiziiftupda2rsbwp7m,bencurran.dev
 did:plc:it5libnatnylf2c5jpr56vpr,micahhausler.com
