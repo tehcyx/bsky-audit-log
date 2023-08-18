@@ -49,8 +49,8 @@ did:plc:xo32sqgvpykv4vp65l3jnupd,effinbirds.com
 did:plc:m7w6mfn35d53chutrzjzgkng,bestofdyingtwit.bsky.social
 did:plc:5nmiwv2z63hjihv3unhctssb,fuckyouiquit.bsky.social
 did:plc:vtpyqvwce4x6gpa5dcizqecy,techcrunch.bsky.social
-did:plc:35bdlgus7hihmup66o265nuy,rawkode.dev
-did:plc:3cnc23febpqll7eaz5h722mn,chmarny.com
+did:plc:35bdlgus7hihmup66o265nuy,handle.invalid
+did:plc:3cnc23febpqll7eaz5h722mn,handle.invalid
 did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:3n5xhy6vl7smssmwxq5wgqa6,gergely.pragmaticengineer.com
 did:plc:p6qkxy42g2evxw4k73divmes,juliaferraioli.com
