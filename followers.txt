@@ -1,3 +1,5 @@
+did:plc:vzjfa5zmlx6fb4njszgjpag7,robearlam.com
+did:plc:37iy7brsjplmezel2l2twxyh,bartplasmeijer.bsky.social
 did:plc:hba2gapoq5n4i7sqm7pvomvd,garchanjo.com
 did:plc:yok6cwajcgcm3z6laqi6ni3w,saschabaumann.bsky.social
 did:plc:giyrjoyd7i6ik3bbaqsgzml7,2fa.bsky.social

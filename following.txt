@@ -1,3 +1,5 @@
+did:plc:vzjfa5zmlx6fb4njszgjpag7,robearlam.com
+did:plc:37iy7brsjplmezel2l2twxyh,bartplasmeijer.bsky.social
 did:plc:fp7rfh4t2ykbtkizxk7e3xvh,jesirae.bsky.social
 did:plc:d47qj4iye2tgorzu3os4ayss,davidfowl.com
 did:plc:xmzjrxuzd656yvacs2pnafpf,richburroughs.dev
