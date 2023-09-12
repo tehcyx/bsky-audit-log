@@ -93,6 +93,5 @@ did:plc:exrxvyu6bpoym6mbnctke5tn,molly.wiki
 did:plc:62cuohm6c6nefpnw4uujepty,elonjet.net
 did:plc:z2rokxrttw5254hogmucux2x,lookitup.baby
 did:plc:7i3fhorekojhdjhkbln7q7gq,kelseyhightower.com
-did:plc:6fktaamhhxdqb2ypum33kbkj,jack.bsky.social
 did:plc:a4pqq234yw7fqbddawjo7y35,theonion.com
 did:plc:u66yy4dkibtqvckpvlpvhwbk,andrewlombardi.com
