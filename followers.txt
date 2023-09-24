@@ -2,7 +2,6 @@ did:plc:6sgsh3d35def5uuchp4qajq6,talietal.bsky.social
 did:plc:xjhtyhzb4n6gmpvqrf7q5en6,ecoleoubliee.bsky.social
 did:plc:vzjfa5zmlx6fb4njszgjpag7,robearlam.com
 did:plc:37iy7brsjplmezel2l2twxyh,bartplasmeijer.bsky.social
-did:plc:hba2gapoq5n4i7sqm7pvomvd,garchanjo.com
 did:plc:yok6cwajcgcm3z6laqi6ni3w,saschabaumann.bsky.social
 did:plc:672nq7ghoamdklur3p2muakf,thomasganslandt.bsky.social
 did:plc:rpes2nazdbxn3lzk2sf6h2qd,hmm.pics
