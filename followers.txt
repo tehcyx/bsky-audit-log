@@ -1,3 +1,4 @@
+did:plc:b7m5trb7t7ikpauvqrzd2gpv,smissteacher.bsky.social
 did:plc:3srw3b4mujlwzva6sk3rbvuy,amarjeat.bsky.social
 did:plc:6sgsh3d35def5uuchp4qajq6,talietal.bsky.social
 did:plc:xjhtyhzb4n6gmpvqrf7q5en6,ecoleoubliee.bsky.social
@@ -34,7 +35,6 @@ did:plc:fezgqukekwyvhz2ljrmcnmrk,ishverduzco.bsky.social
 did:plc:7v4zh2oqny3s7zejpapnm55s,drbashir2023.bsky.social
 did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:thcgl3bxpvq6a3ojj6pjyzao,invest.bsky.social
-did:plc:zjfqitgtre43o3b4ccycfyxk,benjackson.com
 did:plc:pkuisl4mimpqfiut6icapvlb,jeremyrickard.com
 did:plc:slwz2spe2hzga4cj5xwaqqmk,frankschoschka.bsky.social
 did:plc:hn2ebg3nposwaqhhojn4gmd7,trippy.bsky.social
