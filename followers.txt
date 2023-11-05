@@ -1,3 +1,4 @@
+did:plc:aui4nwz642bg4edbkvexogcw,kristianharstad.bsky.social
 did:plc:b7m5trb7t7ikpauvqrzd2gpv,smissteacher.bsky.social
 did:plc:3srw3b4mujlwzva6sk3rbvuy,amarjeat.bsky.social
 did:plc:6sgsh3d35def5uuchp4qajq6,talietal.bsky.social
