@@ -10,7 +10,6 @@ import (
 	"github.com/bluesky-social/indigo/api/bsky"
 	"github.com/bluesky-social/indigo/util"
 	"github.com/bluesky-social/indigo/xrpc"
-	"github.com/golang-jwt/jwt/v5"
 )
 
 type runFunc func(context.Context, *xrpc.Client, string) ([]*bsky.ActorDefs_ProfileView, error)
@@ -48,54 +47,26 @@ func main() {
 	}
 	ctx := context.Background()
 
-	// Create the XRPC client from the supplied HTTP one
+	// create a new session
 	client := &xrpc.Client{
 		Client: util.RobustHTTPClient(),
 		Host:   bskyInstance,
-	}
-	// Do a sanity check with the server to ensure everything works. We don't
-	// really care about the response as long as we get a meaningful one.
-	if _, err := atproto.ServerDescribeServer(ctx, client); err != nil {
-		panic(fmt.Errorf("ServerDescribeServer failed with %w", err))
+		Auth:   &xrpc.AuthInfo{Handle: bskyHandle},
 	}
 
-	resp, err := atproto.ServerCreateSession(ctx, client, &atproto.ServerCreateSession_Input{
-		Identifier: bskyHandle,
+	auth, err := atproto.ServerCreateSession(context.TODO(), client, &atproto.ServerCreateSession_Input{
+		Identifier: client.Auth.Handle,
 		Password:   bskyAppPwd,
 	})
 	if err != nil {
 		panic(fmt.Errorf("ServerCreateSession failed with %w", err))
 	}
+	client.Auth.AccessJwt = auth.AccessJwt
+	client.Auth.RefreshJwt = auth.RefreshJwt
+	client.Auth.Did = auth.Did
+	client.Auth.Handle = auth.Handle
 
-	// Verify and reject master credentials, sorry, no bad security practices
-	token, _, err := jwt.NewParser().ParseUnverified(resp.AccessJwt, jwt.MapClaims{})
-	if err != nil {
-		panic(fmt.Errorf("token verify failed with %w", err))
-	}
-	if token.Claims.(jwt.MapClaims)["scope"] != "com.atproto.appPass" {
-		panic("Unauthorized jwt claim")
-	}
-	// Retrieve the expirations for the current and refresh JWT tokens
-	_, err = token.Claims.GetExpirationTime()
-	if err != nil {
-		panic(fmt.Errorf("token expiration date verification failed with %w", err))
-	}
-	if token, _, err = jwt.NewParser().ParseUnverified(resp.RefreshJwt, jwt.MapClaims{}); err != nil {
-		panic(fmt.Errorf("token parse failed with %w", err))
-	}
-	_, err = token.Claims.GetExpirationTime()
-	if err != nil {
-		panic(fmt.Errorf("token refresh expiration date verification failed with %w", err))
-	}
-	// Construct the authenticated client and the JWT expiration metadata
-	client.Auth = &xrpc.AuthInfo{
-		AccessJwt:  resp.AccessJwt,
-		RefreshJwt: resp.RefreshJwt,
-		Handle:     resp.Handle,
-		Did:        resp.Did,
-	}
-
-	profile, err := selfID(ctx, client, resp.Did)
+	profile, err := selfID(ctx, client, client.Auth.Did)
 	if err != nil {
 		panic(fmt.Errorf("selfID failed with %w", err))
 	}
@@ -104,7 +75,7 @@ func main() {
 		return
 	}
 
-	if err := print(ctx, client, resp.Did, cmd); err != nil {
+	if err := print(ctx, client, client.Auth.Did, cmd); err != nil {
 		panic(err)
 	}
 }
