@@ -1,0 +1,22 @@
+name: comment-pr
+
+on:
+  pull_request:
+    branches: [ master ]
+    types: [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: 'write'
+    steps:
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '👋 Thank you for the PR! A maintainer will have to add the `ok-to-test` label to run tests before this can get merged.'
+            })
