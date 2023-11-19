@@ -1,4 +1,3 @@
-did:plc:il64reukyj3pkprny46jvni4,historyclippings.bsky.social
 did:plc:aui4nwz642bg4edbkvexogcw,kristianharstad.bsky.social
 did:plc:b7m5trb7t7ikpauvqrzd2gpv,smissteacher.bsky.social
 did:plc:3srw3b4mujlwzva6sk3rbvuy,amarjeat.bsky.social
