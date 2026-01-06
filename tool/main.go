@@ -151,8 +151,10 @@ func following(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDe
 		pageNum++
 		log.Printf("Fetching following page %d (cursor: %s)", pageNum, cursor)
 
+		// Capture cursor in a local variable for the closure
+		currentCursor := cursor
 		fs, err := retryWithBackoff(ctx, func() (*bsky.GraphGetFollows_Output, error) {
-			return bsky.GraphGetFollows(ctx, c, did, cursor, 100)
+			return bsky.GraphGetFollows(ctx, c, did, currentCursor, 100)
 		}, fmt.Sprintf("GraphGetFollows page %d", pageNum))
 
 		if err != nil {
@@ -162,8 +164,10 @@ func following(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDe
 		accounts = append(accounts, fs.Follows...)
 		log.Printf("Fetched %d accounts (total: %d)", len(fs.Follows), len(accounts))
 
-		if fs.Cursor != nil {
+		if fs.Cursor != nil && *fs.Cursor != "" {
 			cursor = *fs.Cursor
+		} else {
+			break
 		}
 		if len(fs.Follows) == 0 {
 			break
@@ -186,8 +190,10 @@ func followers(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDe
 		pageNum++
 		log.Printf("Fetching followers page %d (cursor: %s)", pageNum, cursor)
 
+		// Capture cursor in a local variable for the closure
+		currentCursor := cursor
 		fs, err := retryWithBackoff(ctx, func() (*bsky.GraphGetFollowers_Output, error) {
-			return bsky.GraphGetFollowers(ctx, c, did, cursor, 100)
+			return bsky.GraphGetFollowers(ctx, c, did, currentCursor, 100)
 		}, fmt.Sprintf("GraphGetFollowers page %d", pageNum))
 
 		if err != nil {
@@ -197,8 +203,10 @@ func followers(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDe
 		accounts = append(accounts, fs.Followers...)
 		log.Printf("Fetched %d accounts (total: %d)", len(fs.Followers), len(accounts))
 
-		if fs.Cursor != nil {
+		if fs.Cursor != nil && *fs.Cursor != "" {
 			cursor = *fs.Cursor
+		} else {
+			break
 		}
 		if len(fs.Followers) == 0 {
 			break
@@ -222,8 +230,10 @@ func blocked(ctx context.Context, c *xrpc.Client, id string) ([]*bsky.ActorDefs_
 		pageNum++
 		log.Printf("Fetching blocks page %d (cursor: %s)", pageNum, cursor)
 
+		// Capture cursor in a local variable for the closure
+		currentCursor := cursor
 		fs, err := retryWithBackoff(ctx, func() (*bsky.GraphGetBlocks_Output, error) {
-			return bsky.GraphGetBlocks(ctx, c, cursor, 100)
+			return bsky.GraphGetBlocks(ctx, c, currentCursor, 100)
 		}, fmt.Sprintf("GraphGetBlocks page %d", pageNum))
 
 		if err != nil {
@@ -233,8 +243,10 @@ func blocked(ctx context.Context, c *xrpc.Client, id string) ([]*bsky.ActorDefs_
 		accounts = append(accounts, fs.Blocks...)
 		log.Printf("Fetched %d accounts (total: %d)", len(fs.Blocks), len(accounts))
 
-		if fs.Cursor != nil {
+		if fs.Cursor != nil && *fs.Cursor != "" {
 			cursor = *fs.Cursor
+		} else {
+			break
 		}
 		if len(fs.Blocks) == 0 {
 			break
@@ -257,8 +269,10 @@ func muted(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDefs_P
 		pageNum++
 		log.Printf("Fetching mutes page %d (cursor: %s)", pageNum, cursor)
 
+		// Capture cursor in a local variable for the closure
+		currentCursor := cursor
 		fs, err := retryWithBackoff(ctx, func() (*bsky.GraphGetMutes_Output, error) {
-			return bsky.GraphGetMutes(ctx, c, cursor, 100)
+			return bsky.GraphGetMutes(ctx, c, currentCursor, 100)
 		}, fmt.Sprintf("GraphGetMutes page %d", pageNum))
 
 		if err != nil {
@@ -268,8 +282,10 @@ func muted(ctx context.Context, c *xrpc.Client, did string) ([]*bsky.ActorDefs_P
 		accounts = append(accounts, fs.Mutes...)
 		log.Printf("Fetched %d accounts (total: %d)", len(fs.Mutes), len(accounts))
 
-		if fs.Cursor != nil {
+		if fs.Cursor != nil && *fs.Cursor != "" {
 			cursor = *fs.Cursor
+		} else {
+			break
 		}
 		if len(fs.Mutes) == 0 {
 			break
