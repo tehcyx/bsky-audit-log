@@ -1,7 +1,6 @@
 did:plc:6q6mlhirots5dpajzjeitmka,galapixelgames.bsky.social
 did:plc:3j4pib2lgdi6lh4t56vrod5o,galapixel.bsky.social
 did:plc:ns3zi2fpoy7ze2nkq2tc4pgf,talksmart.bsky.social
-did:plc:ittfbylhvuvthqpkdor6sve3,taylorrenrightt.bsky.social
 did:plc:hjxgertt5ugbrhawpu6elt2m,venkatamutyala.com
 did:plc:uvzclfmpcxgspeddm6wnxcwl,mariannef.bsky.social
 did:plc:yqrutq5dgabzfpceqyvhkhth,nhuck.bsky.social
