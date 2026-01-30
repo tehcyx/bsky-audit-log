@@ -33,7 +33,7 @@ did:plc:nu665ujecl74q5sjciarch73,jayholler.bsky.social
 did:plc:4sxe3ekrmdc5qkjdmgjtdh33,dansobel.bsky.social
 did:plc:i3zu4rpqrcj3ntkmfl5z42yz,guincodes.bsky.social
 did:plc:rgibdu66xuzuijyyyxnjk3xd,zackrawrr.bsky.social
-did:plc:sa7ogttbo7m5vuyyv5pf6s4j,thepihut.bsky.social
+did:plc:sa7ogttbo7m5vuyyv5pf6s4j,thepihut.com
 did:plc:xyddpg6usmgh2t2jgf4e37yk,markhamillofficial.bsky.social
 did:plc:76uvxp22hlgaoq7gfhcs2p7a,sarahcpr.bsky.social
 did:plc:kdjmp2eg4xrq4zv74tmtuis2,jredmond.bsky.social
