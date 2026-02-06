@@ -3,6 +3,8 @@ name: test
 on:
   pull_request_target:
     types: [labeled, synchronize]
+permissions:
+  contents: read
 defaults:
   run:
     working-directory: ./tool
@@ -15,12 +17,12 @@ jobs:
       BSKY_APP_PWD: ${{ secrets.BSKY_APP_PWD }}
       BSKY_INSTANCE: ${{ secrets.BSKY_INSTANCE }}
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
-    - uses: actions/setup-go@v4
+    - uses: actions/setup-go@v5
       with:
-        go-version: 1.21
+        go-version: '1.25'
     - name: Fetch blocked accounts
       run: go run . -- blocks
     - name: Fetch muted accounts
