@@ -65,7 +65,7 @@ did:plc:q2ba6lk7ecm5lehfae7wryne,imjasonh.com
 did:plc:cvj5kytyd43wl3ngjxafqch3,brendandburns.bsky.social
 did:plc:wuwhz4w2cpy47zemqpynlox2,emilyfreeman.bsky.social
 did:plc:2ln5q5d5wjl7jvlehhyhtq2v,a-z.dev
-did:plc:e37k2mocg7e6tnund62tmpmz,kaslin.rocks
+did:plc:e37k2mocg7e6tnund62tmpmz,handle.invalid
 did:plc:lempvsbfqb24mzphfvg4m63p,gctaylor.com
 did:plc:ituhatvv5pyz4rwsj4hfrslh,mattn.bsky.social
 did:plc:p7uix7mresfq4nfzxp3klgfa,justingarrison.com
