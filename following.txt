@@ -133,6 +133,7 @@ did:plc:p6qkxy42g2evxw4k73divmes,juliaferraioli.com
 did:plc:vkn2vmcnsmlffrpwalvgybw5,h.olysh.it
 did:plc:ekcyikfp2mpymgtyzz7wkfuj,auggie.dev
 did:plc:yxwq2vrknqhxqb2pnaxivub3,mauilion.dev
+did:plc:g2cv2aanm64kfjsnl67bjlkc,wongmjane.com
 did:plc:ofoinqecg6p4gp4lssrj52kv,lizrice.com
 did:plc:liyzshsst2amj26ga472grjz,killedbygoogle.com
 did:plc:uftbpojgcu2pkch7tjs623k4,lachie.bsky.social
