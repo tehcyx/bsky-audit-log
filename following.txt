@@ -1,3 +1,5 @@
+did:plc:r5vna26rxavzyk5iuyqumdrg,hmans.dev
+did:plc:3umxwashf3xwv7gpczyrsmnq,chatto.run
 did:plc:lr36xv2l64jwtnyoaqem6z2z,eff.org
 did:plc:kft6lu4trxowqmter2b6vg6z,simonwillison.net
 did:plc:pnadan6drac5qlqsmwl7b6ef,bcherny.bsky.social
