@@ -102,7 +102,7 @@ did:plc:tpg43qhh4lw4ksiffs4nbda3,jacob.gold
 did:plc:ewvi7nxzyoun6zhxrhs64oiz,atproto.com
 did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:oky5czdrnfjpqslsw2a5iclo,jay.bsky.team
-did:plc:vpkhqolt662uhesyj6nxm7ys,why.bsky.team
+did:plc:vpkhqolt662uhesyj6nxm7ys,why.bsky.world
 did:plc:l3efsnzegvrsoek3tr2lknal,justinschuh.com
 did:plc:ehktuyu46b3sdkl2y3sdij3u,oxide.computer
 did:plc:73dpznbu4wqwtcyurwbiulov,archive.org
