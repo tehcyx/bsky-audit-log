@@ -56,7 +56,7 @@ did:plc:66exg3ue3crrvms3kltkwy4j,dcsan.xyz
 did:plc:d3q2io3xsydlwoeriw6snpex,lesfleursdumal.bsky.social
 did:plc:ywhc3ypin66nd7xl2seyd3ow,marshy.bsky.social
 did:plc:gzo7eieauepwe6yuq7ql6vvy,wendydevolder.bsky.social
-did:plc:fezgqukekwyvhz2ljrmcnmrk,handle.invalid
+did:plc:fezgqukekwyvhz2ljrmcnmrk,ishverduzco.bsky.social
 did:plc:7v4zh2oqny3s7zejpapnm55s,puffin98.bsky.social
 did:plc:flgx4j2zrqey4e7vroecjtus,vicnastea.io
 did:plc:thcgl3bxpvq6a3ojj6pjyzao,invest.bsky.social
