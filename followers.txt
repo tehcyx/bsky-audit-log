@@ -67,7 +67,6 @@ did:plc:hn2ebg3nposwaqhhojn4gmd7,trippy.bsky.social
 did:plc:l5vohrotjzzycko5tw4yvukb,keithmattix.bsky.social
 did:plc:dr5hvdtpbo4l7long325nqxo,rswestmore.land
 did:plc:yxwq2vrknqhxqb2pnaxivub3,mauilion.dev
-did:plc:lya72n3sftnxascd2u3xx3eb,inc.bsky.social
 did:plc:hf4k7eomw4kzxgaewpias2h4,nexus.bsky.social
 did:plc:35pzepfgqsqumssny4vacajq,kdspaul.bsky.social
 did:plc:qxicu6czvmshborhgqfy5ixl,jasonchan.bsky.social
