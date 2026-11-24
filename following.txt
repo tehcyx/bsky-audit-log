@@ -8,7 +8,6 @@ did:plc:a6tbjws5lw7gtviwo6i7feu7,fafo.fm
 did:plc:wpnpos6a43zy2jorv7pcx4pp,frankrieger.bsky.social
 did:plc:ocmteq4g2xf2cmc7eju7gdfl,witchbrook.com
 did:plc:qtpysarntxepux4to4dr4hgr,rawkode.academy
-did:plc:7ajaygu6j2cbvs35uu4o63i5,offspringmusic.bsky.social
 did:plc:yesswrkpihrc7lgxhdaoabtg,gbdev.io
 did:plc:pepdcdxoavtuo3ozkjpsnhmk,artoflei.bsky.social
 did:plc:km5ummckl6flyctz4ecemsrd,aggrend.bsky.social
